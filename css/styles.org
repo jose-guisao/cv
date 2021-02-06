@@ -1,0 +1,40 @@
+/*  body {
+    background-color: #bedbbb;
+  }
+  /*  < !-- https: //developer.mozilla.org/en-US/docs/Web/CSS/border-style -->*/
+/*
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-top-width: 5px;
+    border-color: #8db596;
+    width: 5%;
+  }
+
+/*https://colorhunt.co/palette/220072*/
+
+/*  h1, h3 {
+    color: #66bfbf;
+  }
+
+/* Esta parte es un color set de colorhunt.io
+https://colorhunt.co/palette/226680
+*/
+      body {
+      background-color: #e3e3e3;
+      /* #fcf8ec; */
+
+    }
+
+    hr {
+      background-color: #048998;
+      /* #bedbbb; */
+      border-style: none;
+      height: 2px;
+      width: 25%;
+    }
+
+    h1, h3 {
+      color: #3bb4c1; 
+      /* #66bfbf;*/
+    }

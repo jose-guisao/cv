@@ -1,9 +1,8 @@
-<style>
-  body {
+/*  body {
     background-color: #bedbbb;
   }
   /*  < !-- https: //developer.mozilla.org/en-US/docs/Web/CSS/border-style -->*/
-
+/*
   hr {
     border-style: none;
     border-top-style: dotted;
@@ -13,8 +12,69 @@
   }
 
 /*https://colorhunt.co/palette/220072*/
-
-  h1, h3 {
-    color: #707070;
+/*  h1, h3 {
+    color: #66bfbf;
   }
-</style>
+
+/* Esta parte es un color set de colorhunt.io
+https://colorhunt.co/palette/226680
+*/
+body {
+  background-color: #f9e0ae;
+  /* #fcf8ec; */
+}
+p {
+  color: #c24914cc;
+  font-size: auto;
+  font-family: sans-serif;
+  margin: 5px 1px;
+  padding: 2px;
+}
+hr {
+  /*background-color: #048998;*/
+  /*https://colorhunt.co/palette/65929*/
+  /* #bedbbb; */
+  border-style: none;
+  border-top-style: dotted;
+  border-top-width: 10px;
+  border-color: grey;
+  width: 5%;
+}
+tr {
+  color: #c24914cc;
+  font-family: sans-serif;
+}
+h1 {
+  color: #fc8621;
+}
+
+h3 {
+  color: #c24914;
+}
+img:hover {
+  transform: scaleX(-1);
+  background-color: #f9e0ae00;
+  border-radius: 85px 15px 90px 17px;
+  border-style:solid;
+  border-color: #fc8621;
+  border-width: 3px;
+}
+
+/*
+      body {
+      background-color: #ccffcc ;
+
+    }
+
+    hr {
+      background-color: #bedbbb;
+      border-style: none;
+      height: 2px;
+      width: 25%;
+    }
+
+    h1, h3 {
+      color: #66bfbf;
+    }
+
+*/
